@@ -1,0 +1,23 @@
+
+This video demonstrates the functionality of the following projects:
+
+1. Question 2 – Banking System
+   - Showcases account creation, deposits, withdrawals, and balance checks.
+   
+2. Question 3 – E-Commerce System
+   - Demonstrates product listing, shopping cart operations, and order processing.
+
+Google Drive Link:
+https://drive.google.com/file/d/1PTnJkqmauuqXaKSvCmRpV6kkwIzOfJ2N/view?usp=sharing
+
+
+Notes:
+- The video was recorded using OBS Studio inside VS Code.
+- Both projects were run, tested audio was a major probelm.
+    this is my first trial ill get better with time.
+    and due to time constraints.
+- The link is set to "Anyone with the link can view".
+
+Submitted by: Edwin Njenga 
+Adm no: 1062236 
+Date: 4th August 2025
